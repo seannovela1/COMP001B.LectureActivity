@@ -2,3 +2,37 @@ Hello World!
 body {
   background-color: lightblue;
 }
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+type-<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
+ para1 
+  text-align: center;
+  color: red;
+
+.intro {
+  background-color: yellow;
+}.
+hover { 
+
+  color: blue; 
+
+  text-decoration: underline; 
+
+} 
+p::first-line {
+  color: #ff0000;
+  font-variant: small-caps;
+}
+
